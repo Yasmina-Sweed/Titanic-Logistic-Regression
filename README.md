@@ -14,13 +14,6 @@ The Titanic dataset is a classic classification problem in machine learning. The
 
 ---
 
-## 📂 Contents
-
-- `Titanic_Logistic_Regression.ipynb`: Jupyter notebook containing all code and analysis.
-- `README.md`: Project documentation.
-
----
-
 ## 📊 Dataset Description
 
 The dataset used is the **Titanic dataset** from Kaggle
